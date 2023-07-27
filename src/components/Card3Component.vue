@@ -20,7 +20,7 @@ import { Rating } from 'flowbite-vue'
     <Rating
       :rating="1"
       :scale="1"
-      review-text="73 reviews"
+      review-text="1023 reviews"
       review-link="#"
     >
       <template #besideText>
@@ -40,7 +40,7 @@ import { Rating } from 'flowbite-vue'
     <Rating
       :rating="1"
       :scale="1"
-      review-text="73 reviews"
+      review-text="958 reviews"
       review-link="#"
     >
       <template #besideText>
@@ -61,7 +61,7 @@ import { Rating } from 'flowbite-vue'
   <Rating
       :rating="1"
       :scale="1"
-      review-text="73 reviews"
+      review-text="997 reviews"
       review-link="#"
     >
       <template #besideText>
